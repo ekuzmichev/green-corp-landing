@@ -1,6 +1,7 @@
 body {
   font-family: "Raleway", sans-serif;
   color: #213053;
+  margin: 0;
 }
 
 a {
@@ -24,6 +25,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 20px;
 }
 
 .header__logo {
@@ -33,4 +35,5 @@ header {
 header a {
   font-size: 15px;
   font-weight: 600;
+  margin-right: 25px;
 }
