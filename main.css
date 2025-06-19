@@ -103,3 +103,9 @@ header a {
 .form__container {
   width: 550px;
 }
+
+.form__group {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
