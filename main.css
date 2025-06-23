@@ -124,18 +124,10 @@ header a {
 .form label {
   font-size: 18px;
   font-weight: 600;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
-.form input {
-  font-size: 18px;
-  color: #213053;
-  height: 60px;
-  padding: 0 20px 0 20px;
-  border-radius: 15px;
-  border: none;
-}
-
+.form input,
 .form select {
   font-size: 18px;
   color: #213053;
@@ -167,6 +159,12 @@ footer {
   font-weight: 600;
 }
 
+footer h3 {
+  font-size: 16px;
+  opacity: 0.7;
+  margin-bottom: 30px;
+}
+
 .footer__container {
   display: flex;
   justify-content: center;
@@ -180,12 +178,6 @@ footer {
 
 .footer__group {
   margin-right: 80px;
-}
-
-.footer__group h3 {
-  font-size: 16px;
-  opacity: 0.7;
-  margin-bottom: 30px;
 }
 
 .footer__links {
