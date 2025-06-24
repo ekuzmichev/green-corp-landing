@@ -228,6 +228,11 @@ footer h3 {
   .footer__group {
     margin-right: 60px;
   }
+
+  .form h1 {
+    font-size: 36px;
+    line-height: 40px
+  }
 }
 
 /* Smartphones */
@@ -269,6 +274,7 @@ footer h3 {
 
   .form h1 {
     font-size: 36px;
+    line-height: 40px;
   }
 
   footer {
